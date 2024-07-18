@@ -46,7 +46,7 @@ I don't use many social medias, but I have a discord server and a YouTube Channe
 
 | Microsoft | Windows 11 | Canary |
 |----------|----------|----------|
-| <img src="assets/microsoft.webp" title="Microsoft" alt="Microsoft" width="55" height="55"/> | <img src="assets/Windows11.webp" title="Windows 11" alt="Win11" width="55" height="55"/> | <img src="assets/dna.webp" title="Insider Canary" alt="Canary" width="55" height="55" style="padding-left: 20px;"/> |
+| <img src="assets/microsoft.png" title="Microsoft" alt="Microsoft" width="55" height="55"/> | <img src="assets/Windows11.webp" title="Windows 11" alt="Win11" width="55" height="55"/> | <img src="assets/dna.webp" title="Insider Canary" alt="Canary" width="55" height="55" style="padding-left: 20px;"/> |
 
 ### OS (Secondary)
 
