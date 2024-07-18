@@ -46,7 +46,7 @@ I don't use many social medias, but I have a discord server and a YouTube Channe
 
 | Linux | Arch | BlackArch |
 |----------|----------|----------|
-| <img src="assets/linux.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="assets/archlinux.webp" title="Arch Linux" alt="Arch" width="55" height="55"/> | <img src="assets/blackarch.png" title="BlackArch Linux" alt="BlackArch" width="55" height="55"/> |
+| <img src="assets/linux.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="assets/archlinux.webp" title="Arch Linux" alt="Arch" width="55" height="55"/> | <img src="assets/blackarch.png" left="20" title="BlackArch Linux" alt="BlackArch" width="55" height="55"/> |
 
 </div>
 
