@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/PFP-V9-nobg.png" width=250>
+
 # ɆⱠɆ₵₮ⱤØ
 
 A Digital Creator
@@ -9,7 +11,7 @@ A Digital Creator
 
 <div align="left">
 
-## A bit about ELECTRO
+## A bit about ELECTRO ⚡
 
  - Apathetic
  - Self Destructive
@@ -27,7 +29,7 @@ I don't use many social medias, but I have a discord server and a YouTube Channe
  - [Discord](https://discord.gg/TgtCGKxbZr)
  - [Youtube](https://www.youtube.com/@ELEC7RO)
 
-### My Skills
+### My Skills 🥇
 
 #### - Game Development (In Unity)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
