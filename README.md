@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ELECTRIS-Transparent.png" width=250 title="Electrinity" alt="ELT-nobg"> <img src="assets/PFP-V9-nobg.png" width=250 title="ELECTRO" alt="PFPv9-nobg"> <img src="assets/TWAOS.png" width=250 title="One and the Same" alt="TWAOS-Logo">
+<img src="assets/ELECTRIS-Transparent.png" width=250 title="Electrinity" alt="ELT-nobg"> <img src="assets/PFP-V9-nobg.png" width=250 title="ELECTRO" alt="PFPv9-nobg"> <img src="assets/TWAOS.svg" width=250 title="One and the Same" alt="TWAOS-Logo">
 
 # ɆⱠɆ₵₮ⱤØ
 
@@ -46,7 +46,7 @@ I don't use many social medias, but I have a discord server and a YouTube Channe
 
 | Microsoft | Windows 11 | Canary |
 |----------|----------|----------|
-| <img src="assets/microsoft.png" title="Microsoft" alt="Microsoft" width="55" height="55"/> | <img src="assets/Windows11.png" title="Windows 11" alt="Win11" width="55" height="55"/> | <img src="assets/dna.webp" title="Insider Canary" alt="Canary" width="55" height="55" style="padding-left: 20px;"/> |
+| <img src="assets/microsoft.svg" title="Microsoft" alt="Microsoft" width="55" height="55"/> | <img src="assets/Windows11.svg" title="Windows 11" alt="Win11" width="55" height="55"/> | <img src="assets/dna.webp" title="Insider Canary" alt="Canary" width="55" height="55" style="padding-left: 20px;"/> |
 
 ### OS (Secondary)
 
