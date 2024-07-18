@@ -42,6 +42,12 @@ I don't use many social medias, but I have a discord server and a YouTube Channe
 #### - Music Artist
   - Some of my work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
+### OS (Primary)
+
+| Microsoft | Windows 11 | Canary |
+|----------|----------|----------|
+| <img src="assets/microsoft.webp" title="Microsoft" alt="Microsoft" width="55" height="55"/> | <img src="assets/Windows11.webp" title="Windows 11" alt="Win11" width="55" height="55"/> | <img src="assets/dna.webp" title="Insider Canary" alt="Canary" width="55" height="55" style="padding-left: 20px;"/> |
+
 ### OS (Secondary)
 
 | Linux | Arch | BlackArch |
