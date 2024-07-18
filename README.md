@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ELECTRIS-Transparent.png" width=250 title="ELECTRIS" alt="ELT-nobg"> <img src="assets/PFP-V9-nobg.png" width=250 title="ELECTRO" alt="PFPv9-nobg"> <img src="assets/TWAOS.png" width=250 title="TWAOS" alt="TWAOS-Logo">
+<img src="assets/ELECTRIS-Transparent.png" width=250 title="Electrinity" alt="ELT-nobg"> <img src="assets/PFP-V9-nobg.png" width=250 title="ELECTRO" alt="PFPv9-nobg"> <img src="assets/TWAOS.png" width=250 title="One and the Same" alt="TWAOS-Logo">
 
 # ɆⱠɆ₵₮ⱤØ
 
@@ -20,7 +20,7 @@ A Digital Creator
  - Nihilistic
 
 <br> Can't take constructive criticism for the life of me
-<br> Really enjoy spending time only, even though it's destroyng my life
+<br> Really enjoy spending time online, even though it's destroyng my life
 <br> We become what we assume.
 
 ### Social media 📡
