@@ -11,15 +11,21 @@ A Digital Creator
 
 ## A bit about ELECTRO
 
-- Apathetic
-- Self Destructive
-- Pessimistic
-- Self Fulfilling
-- Nihilistic
+ - Apathetic
+ - Self Destructive
+ - Pessimistic
+ - Self Fulfilling
+ - Nihilistic
 
 <br> Can't take constructive criticism for the life of me
 <br> Really enjoy spending time only, even though it's destroyng my life
 <br> We become what we assume.
+
+### Social media 📡
+I don't use many social medias, but I have a discord server and a YouTube Channel
+
+ - [Discord](https://discord.gg/TgtCGKxbZr)
+ - [Youtube](https://www.youtube.com/@ELEC7RO)
 
 ### My Skills
 
@@ -35,3 +41,7 @@ A Digital Creator
   - Some of my work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
