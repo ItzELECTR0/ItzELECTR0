@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/PFP-V9-nobg.png" width=250 title="PFP V9 nobg" alt="PFPv9-nobg">
+<img src="assets/ELECTRIS-Transparent.png" width=250 title="ELECTRIS" alt="ELT-nobg"> | <img src="assets/PFP-V9-nobg.png" width=250 title="PFP-V9-nobg" alt="PFPv9-nobg"> | <img src="assets/VArrow-nobg.png" width=250 title="VArrow-V1-nobg" alt="VRWv1-nobg">
 
 # ɆⱠɆ₵₮ⱤØ
 
