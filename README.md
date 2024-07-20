@@ -35,6 +35,7 @@ I don't use many social medias, but I have a discord server and a YouTube Channe
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
 #### - Video Editing
   - Some of my work: [Ayanokoji Edit - Rhinestone Eyes](https://youtu.be/tW2iEd6PKqk) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
+  - Currently working on: Edgerunners Edit - Red Sex
 #### - Programmer
   - Currently working on: A Private Project
 #### - Story Writer
@@ -59,3 +60,9 @@ I don't use many social medias, but I have a discord server and a YouTube Channe
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+<div align="right">
+
+###### Maybe I'll feel real some day
+
+</div>
