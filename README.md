@@ -13,6 +13,8 @@ A Digital Creator
 
 ## A bit about ELECTRO ⚡
 
+<img align="right" src="assets/Characteristics.png" width=550 title="Nothig is real." alt="Characteristics">
+
  - Apathetic
  - Self Destructive
  - Pessimistic
