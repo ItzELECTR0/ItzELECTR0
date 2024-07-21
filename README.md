@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ELECTRIS-Transparent.png" width=250 title="Electrinity" alt="ELT-nobg"> <img src="assets/PFP-V9-nobg.png" width=250 title="ELECTRO" alt="PFPv9-nobg"> <img src="assets/TWAOS.svg" width=250 title="One and the Same" alt="TWAOS-Logo">
+<img src="assets/ELECTRIS-Transparent.png" width=250 title="The Electrinity" alt="ELECTRIS"> <img src="assets/PFP-V9-nobg.png" width=250 title="The Creator" alt="ELECTRO"> <img src="assets/TWAOS.svg" width=250 title="One and the Same" alt="TWAOS">
 
 # ɆⱠɆ₵₮ⱤØ
 
