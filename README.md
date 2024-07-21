@@ -36,7 +36,7 @@ A Digital Creator
 <br> Favorite game #3: Life is Strange 2
 <br>
 <br> Can't take constructive criticism for the life of him
-<br> Enjoys spending time online, even though it's destroyng his life
+<br> Enjoys being online even though it's destroyng his life
 <br> What do normal people do when they get this sad?
 
 ###### Help me!
