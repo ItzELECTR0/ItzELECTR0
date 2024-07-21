@@ -44,7 +44,7 @@ A Digital Creator
 
 ## "Literally Me" characters
 
-<img align="right" src="assets/Characters.png" width=550 title="Characters" alt="Characters">
+<img align="right" src="assets/Characters.png" width=550 title="A world built on Fantasy" alt="Characters">
 
  - Ayanokoji Kiyotaka
  - Elliot Alderson
@@ -87,7 +87,7 @@ Doesn't use many social medias
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" title="Commits: Wait, is that a snake?" alt="snake"/>
 </p>
 
 <div align="right">
