@@ -95,15 +95,12 @@ Doesn't use many social medias
 <img width="600" height="220" src="https://streak-stats.demolab.com?user=ItzELECTR0&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 <img align="center" width="465" height="350" src="https://github-readme-stats.vercel.app/api?username=ItzELECTR0&show_icons=true&theme=vision-friendly-dark"> <img align="center" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzELECTR0&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 
-&nbsp;
- 
-<img src="https://komarev.com/ghpvc/?username=ItzELECTR0&style=for-the-badge&color=orange" alt=""/>
-
-
 </div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" title="Commits: Wait, is that a snake?" alt="snake"/>
+ 
+ <img align="center" src="https://komarev.com/ghpvc/?username=ItzELECTR0&style=for-the-badge&color=orange" alt=""/>
 </p>
 
 <div align="right">
