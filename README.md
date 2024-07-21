@@ -32,7 +32,8 @@ A Digital Creator
  - Johnny Silverhannd
 
 ### Social media 📡
-I don't use many social medias, but I have a discord server and a YouTube Channel
+I don't use many social medias
+<br>But I have a discord server and a YouTube Channel
 
  - [Discord](https://discord.gg/TgtCGKxbZr)
  - [Youtube](https://www.youtube.com/@ELEC7RO)
