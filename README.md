@@ -21,11 +21,11 @@ A Digital Creator
 
 <br> Can't take constructive criticism for the life of me
 <br> Really enjoy spending time online, even though it's destroyng my life
-<br> We become what we assume.
+<br> What do normal people do when they get this sad?
 
 ## "Literally Me" characters
 
-<img align="right" src="assets/Characters.png" width=550 title="1. Johnny Silverhand 2. Ayanokoji Kiyotaka 3. Truman Burbank 4. Elliot Alderson" alt="Characters">
+<img align="right" src="assets/Characters.png" width=550 title="Characters" alt="Characters">
 
  - Ayanokoji Kiyotaka
  - Elliot Alderson
