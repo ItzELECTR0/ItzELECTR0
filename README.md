@@ -58,7 +58,7 @@ Doesn't use many social medias
  - [Discord](https://discord.gg/TgtCGKxbZr)
  - [Youtube](https://www.youtube.com/@ELEC7RO)
 
-### My Skills 🥇
+### Skills 🥇
 
 #### - Game Development (In Unity)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
