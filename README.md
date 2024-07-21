@@ -25,7 +25,7 @@ A Digital Creator
 
 ## "Literally Me" characters
 
-<img align="right" src="assets/Characters.png" width=500 title="1. Johnny Silverhand 2. Ayanokoji Kiyotaka 3. Truman Burbank 4. Elliot Alderson" alt="Characters">
+<img align="right" src="assets/Characters.png" width=550 title="1. Johnny Silverhand 2. Ayanokoji Kiyotaka 3. Truman Burbank 4. Elliot Alderson" alt="Characters">
 
  - Ayanokoji Kiyotaka
  - Elliot Alderson
