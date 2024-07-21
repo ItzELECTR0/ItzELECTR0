@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/ELECTRIS-Transparent.png" width=250 title="The Electrinity" alt="ELECTRIS"> <img src="assets/PFP-V9-nobg.png" width=250 title="The Creator" alt="ELECTRO"> <img src="assets/TWAOS.svg" width=250 title="One and the Same" alt="TWAOS">
+<img src="assets/ELECTRIS-Transparent.png" width=250 title="The Electrinity." alt="ELECTRIS"> <img src="assets/PFP-V9-nobg.png" width=250 title="The Creator." alt="ELECTRO"> <img src="assets/TWAOS.svg" width=250 title="One and the Same." alt="TWAOS">
 
 # ɆⱠɆ₵₮ⱤØ
 
@@ -44,7 +44,7 @@ A Digital Creator
 
 ## "Literally Me" characters
 
-<img align="right" src="assets/Characters.png" width=550 title="A world built on Fantasy" alt="Characters">
+<img align="right" src="assets/Characters.png" width=550 title="A world built on Fantasy." alt="Characters">
 
  - Ayanokoji Kiyotaka
  - Elliot Alderson
