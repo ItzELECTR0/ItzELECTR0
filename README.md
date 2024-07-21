@@ -1,3 +1,9 @@
+<div align="left">
+
+##### Page written by ELECTRO
+
+</div>
+
 <div align="center">
 
 <img src="assets/ELECTRIS-Transparent.png" width=250 title="The Electrinity" alt="ELECTRIS"> <img src="assets/PFP-V9-nobg.png" width=250 title="The Creator" alt="ELECTRO"> <img src="assets/TWAOS.svg" width=250 title="One and the Same" alt="TWAOS">
@@ -15,15 +21,26 @@ A Digital Creator
 
 <img align="right" src="assets/Characteristics.png" width=450 title="Nothig is real." alt="Characteristics">
 
- - Apathetic
- - Self Destructive
  - Pessimistic
- - Self Fulfilling
  - Nihilistic
+ - Self Destructive
+ - Apathetic
+ - Self Fulfilling
 
-<br> Can't take constructive criticism for the life of me
-<br> Really enjoy spending time online, even though it's destroyng my life
+<br> 99% of the time can be found indoors
+<br> 80% of indoor time is in his room using a computer
+<br> 20% of indoor time is using an Xbox on a samsung TV
+<br>
+<br> Favorite game #1: Cyberpunk 2077
+<br> Favorite game #2: Hollow Knight
+<br> Favorite game #3: Life is Strange 2
+<br>
+<br> Can't take constructive criticism for the life of him
+<br> Enjoys spending time online, even though it's destroyng his life
 <br> What do normal people do when they get this sad?
+
+###### Help me!
+###### Shut the fuck up.
 
 ## "Literally Me" characters
 
@@ -35,8 +52,8 @@ A Digital Creator
  - Johnny Silverhannd
 
 ### Social media 📡
-I don't use many social medias
-<br>But I have a discord server and a YouTube Channel
+Doesn't use many social medias
+<br>But has a discord server and a YouTube Channel
 
  - [Discord](https://discord.gg/TgtCGKxbZr)
  - [Youtube](https://www.youtube.com/@ELEC7RO)
@@ -46,14 +63,14 @@ I don't use many social medias
 #### - Game Development (In Unity)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
 #### - Video Editing
-  - Some of my work: [Ayanokoji Edit - Rhinestone Eyes](https://youtu.be/tW2iEd6PKqk) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
+  - Some of his work: [Ayanokoji Edit - Rhinestone Eyes](https://youtu.be/tW2iEd6PKqk) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
   - Currently working on: Edgerunners Edit - Red Sex
 #### - Programmer
   - Currently working on: A Private Project
 #### - Story Writer
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
 #### - Music Artist
-  - Some of my work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+  - Some of his work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ### OS (Primary)
 
