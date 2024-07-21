@@ -24,11 +24,12 @@ A Digital Creator
 <br> We become what we assume.
 
 ## "Literally Me" characters
+<img align="right" src="assets/Characters.png" width=500 title="1. Johnny Silverhand 2. Ayanokoji Kiyotaka 3. Truman Burbank 4. Elliot Alderson" alt="Characters">
 
- - Ayanokoji Kiyotaka &nbsp; &nbsp; &nbsp; <img align="center" src="assets/Ayanokoji.png" width=225 title="Ayanokoji Kiyotaka" alt="Ayanokoji">
- - Elliot Alderson &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="assets/Elliot.png" width=225 title="Elliot Alderson" alt="Elliot">
- - Truman Burbank &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="center" src="assets/Truman.png" width=225 title="Truman Burbank" alt="Truman">
- - Johnny Silverhannd &nbsp; &nbsp; &nbsp;<img align="center" src="assets/Johnny.png" width=225 title="Johnny Silverhand" alt="Johnny">
+ - Ayanokoji Kiyotaka
+ - Elliot Alderson
+ - Truman Burbank
+ - Johnny Silverhannd
 
 ### Social media 📡
 I don't use many social medias, but I have a discord server and a YouTube Channel
