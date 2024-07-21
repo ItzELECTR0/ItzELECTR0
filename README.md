@@ -23,6 +23,12 @@ A Digital Creator
 <br> Really enjoy spending time online, even though it's destroyng my life
 <br> We become what we assume.
 
+## "Literally Me" characters
+
+ - Ayanokoji Kiyotaka &nbsp; &nbsp; <img align="right" src="assets/Ayanokoji.png" width=400 title="Ayanokoji Kiyotaka" alt="ELT-nobg">
+ - Elliot Alderson &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="right" src="assets/Elliot.png" width=400 title="Elliot Alderson" alt="ELT-nobg">
+ - Truman Burbank &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" src="assets/Truman.png" width=400 title="Truman Burbank" alt="ELT-nobg">
+
 ### Social media 📡
 I don't use many social medias, but I have a discord server and a YouTube Channel
 
