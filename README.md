@@ -72,6 +72,10 @@ Doesn't use many social medias
 #### - Music Artist
   - Some of his work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
+</div>
+
+<div align="center">
+
 ### OS (Primary)
 
 | Microsoft | Windows 11 | Canary |
@@ -83,6 +87,15 @@ Doesn't use many social medias
 | Linux | Arch | BlackArch |
 |----------|----------|----------|
 | <img src="assets/linux.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="assets/archlinux.webp" title="Arch Linux" alt="Arch" width="55" height="55"/> | <img src="assets/blackarch.png" title="BlackArch Linux" alt="BlackArch" width="55" height="55" style="padding-left: 20px;"/> |
+
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=ItzELECTR0&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=ItzELECTR0&show_icons=true&theme=vision-friendly-dark">
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzELECTR0&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+
+&nbsp;
+ 
+<img src="https://komarev.com/ghpvc/?username=ItzELECTR0&style=for-the-badge&color=orange" alt=""/>
+
 
 </div>
 
