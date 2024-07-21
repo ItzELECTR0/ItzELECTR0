@@ -25,9 +25,9 @@ A Digital Creator
 
 ## "Literally Me" characters
 
- - Ayanokoji Kiyotaka &nbsp; &nbsp; <img align="center" src="assets/Ayanokoji.png" width=200 title="Ayanokoji Kiyotaka" alt="ELT-nobg">
- - Elliot Alderson &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="assets/Elliot.png" width=200 title="Elliot Alderson" alt="ELT-nobg">
- - Truman Burbank &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="assets/Truman.png" width=200 title="Truman Burbank" alt="ELT-nobg">
+ - Ayanokoji Kiyotaka &nbsp; &nbsp; <img align="right" src="assets/Ayanokoji.png" width=200 title="Ayanokoji Kiyotaka" alt="ELT-nobg">
+ - Elliot Alderson &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="right" src="assets/Elliot.png" width=200 title="Elliot Alderson" alt="ELT-nobg">
+ - Truman Burbank &nbsp; &nbsp; &nbsp; &nbsp;<img align="right" src="assets/Truman.png" width=200 title="Truman Burbank" alt="ELT-nobg">
 
 ### Social media 📡
 I don't use many social medias, but I have a discord server and a YouTube Channel
