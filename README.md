@@ -74,8 +74,6 @@ Doesn't use many social medias
 
 </div>
 
-&nbsp;
-
 <div align="center">
 
 ### OS (Primary)
@@ -89,8 +87,6 @@ Doesn't use many social medias
 | Linux | Arch | BlackArch |
 |----------|----------|----------|
 | <img src="assets/linux.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="assets/archlinux.webp" title="Arch Linux" alt="Arch" width="55" height="55"/> | <img src="assets/blackarch.png" title="BlackArch Linux" alt="BlackArch" width="55" height="55" style="padding-left: 20px;"/> |
-
-&nbsp;
 
 <img width="600" height="220" src="https://streak-stats.demolab.com?user=ItzELECTR0&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 <img align="center" width="465" height="350" src="https://github-readme-stats.vercel.app/api?username=ItzELECTR0&show_icons=true&theme=vision-friendly-dark"> <img align="center" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzELECTR0&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
