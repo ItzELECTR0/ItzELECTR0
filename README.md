@@ -60,6 +60,8 @@ Doesn't use many social medias
 
 ### Skills 🥇
 
+<img align="right" src="assets/Skills.svg" width=550 title="Distractions from Reality." alt="Skills">
+
 #### - Game Development (In Unity)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
 #### - Video Editing
