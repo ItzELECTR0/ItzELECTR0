@@ -19,7 +19,7 @@ A Digital Creator
 
 ## A bit about ELECTRO ⚡
 
-<img align="right" src="assets/Characteristics.png" width=450 title="Nothig is real." alt="Characteristics">
+<img align="right" src="assets/Characteristics.svg" width=450 title="Nothig is real." alt="Characteristics">
 
  - Pessimistic
  - Semi Nihilistic
