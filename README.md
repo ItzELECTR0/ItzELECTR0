@@ -66,7 +66,7 @@ Doesn't use many social medias
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
 #### - Video Editing
   - Some of his work: [Ayanokoji Edit - Rhinestone Eyes](https://youtu.be/tW2iEd6PKqk) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
-  - Currently working on: Edgerunners Edit - Red Sex
+  - Currently working on: Descent. | Edgerunners Edit - Red Sex
 #### - Programmer
   - Currently working on: A Private Project
 #### - Story Writer
