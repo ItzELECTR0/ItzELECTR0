@@ -19,7 +19,7 @@ A Digital Creator
 
 ## A bit about ELECTRO ⚡
 
-<img align="right" src="assets/Characteristics.svg" width=450 title="Nothig is real." alt="Characteristics">
+<img align="right" src="assets/Characteristics.svg" width=550 title="Nothig is real." alt="Characteristics">
 
  - Pessimistic
  - Semi Nihilistic
@@ -34,6 +34,10 @@ A Digital Creator
 <br> Favorite game #1: Cyberpunk 2077
 <br> Favorite game #2: Hollow Knight
 <br> Favorite game #3: Life is Strange 2
+<br>
+<br> Favorite Anime #1: Classroom of The Elite
+<br> Favorite Anime #2: Re:Zero
+<br> Favorite Anime #3: Kaiju No. 8
 <br>
 <br> Can't take constructive criticism for the life of him
 <br> Enjoys being online even though it's destroyng his life
