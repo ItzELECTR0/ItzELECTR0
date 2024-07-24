@@ -60,13 +60,13 @@ Doesn't use many social medias
 
 ### Skills 🥇
 
-<img align="right" src="assets/Skills.svg" height=450 title="Distractions from Reality." alt="Skills">
+<img align="right" src="assets/Skills.svg" height=400 title="Distractions from Reality." alt="Skills">
 
 #### - Game Development (In Unity)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
 #### - Video Editing
   - Some of his work: [Ayanokoji Edit - Rhinestone Eyes](https://youtu.be/tW2iEd6PKqk) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
-  - Currently working on: Edgerunners Edit - Red Sex
+  - Currently working on: Edgerunners Edit - Red Sex | Descent.
 #### - Programmer
   - Currently working on: A Private Project
 #### - Story Writer
@@ -90,7 +90,6 @@ Doesn't use many social medias
 |----------|----------|----------|
 | <img src="assets/linux.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="assets/archlinux.svg" title="Arch Linux" alt="Arch" width="55" height="55"/> | <img src="assets/blackarch.svg" title="BlackArch Linux" alt="BlackArch" width="55" height="55" style="padding-left: 20px;"/> |
 
-<img width="600" height="220" src="https://streak-stats.demolab.com?user=ItzELECTR0&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 <img align="center" width="465" height="350" src="https://github-readme-stats.vercel.app/api?username=ItzELECTR0&show_icons=true&theme=vision-friendly-dark"> <img align="center" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzELECTR0&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 
 </div>
