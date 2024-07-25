@@ -79,6 +79,35 @@ if (Get-UserConfirmation "Would you like to relink Discord? (Y/N)") {
             } else {
                 Write-Output "Not relinking Vencord. Continuing."
             }
+
+            # Discord Canary Shortcut
+        if (Get-UserConfirmation "Do you want to create Discord's shortcut? (Y/N)") {
+            $appFolder = Get-ChildItem -Path $discordCanaryLocal -Directory | Where-Object { $_.Name -match "^app-\d+\.\d+\.\d+$" } | Select-Object -First 1
+            if ($appFolder) {
+                $appVersion = $appFolder.Name.Substring(4) # Extract the version numbers from the folder name
+                $shortcutPath = Get-UserInput "Where do you want to create the Discord shortcut?" "V:\Windows Things\Desktop\Discord Canary.lnk"
+                $targetPath = "C:\Users\$userName\AppData\Local\DiscordCanary\Update.exe"
+                $arguments = "--processStart DiscordCanary.exe"
+                $startInPath = "C:\Users\$userName\AppData\Local\DiscordCanary\app-$appVersion"
+                $iconPath = Get-UserInput "Where is the Discord icon located?" "V:\Icons\Discord Icon.ico"
+
+                $WScriptShell = New-Object -ComObject WScript.Shell
+                $shortcut = $WScriptShell.CreateShortcut($shortcutPath)
+                $shortcut.TargetPath = $targetPath
+                $shortcut.Arguments = $arguments
+                $shortcut.WorkingDirectory = $startInPath
+                $shortcut.WindowStyle = 1
+                $shortcut.IconLocation = $iconPath
+                $shortcut.Description = "Discord Canary"
+                $shortcut.Save()
+                Write-Output "Created Discord shortcut."
+            } else {
+                Write-Output "No 'app-x.x.xxx' folder found in Discord Canary path '$discordCanaryLocal'."
+            }
+} else {
+    Write-Output "Did not create a Discord shortcut."
+}
+
         }
     } else {
         Write-Output "Cancelled Discord relink. Continuing."
@@ -111,34 +140,6 @@ if (Test-Path "C:\Users\$userName\AppData\Roaming\Mozilla") {
     }
 } else {
     Write-Output "Firefox Not Installed. Skipping."
-}
-
-# Discord Canary Shortcut
-if (Get-UserConfirmation "Do you want to create Discord's shortcut? (Y/N)") {
-    $appFolder = Get-ChildItem -Path $discordCanaryLocal -Directory | Where-Object { $_.Name -match "^app-\d+\.\d+\.\d+$" } | Select-Object -First 1
-    if ($appFolder) {
-        $appVersion = $appFolder.Name.Substring(4) # Extract the version numbers from the folder name
-        $shortcutPath = Get-UserInput "Where do you want to create the Discord shortcut?" "V:\Windows Things\Desktop\Discock.lnk"
-        $targetPath = "C:\Users\$userName\AppData\Local\DiscordCanary\Update.exe"
-        $arguments = "--processStart DiscordCanary.exe"
-        $startInPath = "C:\Users\$userName\AppData\Local\DiscordCanary\app-$appVersion"
-        $iconPath = Get-UserInput "Where is the Discord icon located?" "V:\Icons\Discord Icon.ico"
-
-        $WScriptShell = New-Object -ComObject WScript.Shell
-        $shortcut = $WScriptShell.CreateShortcut($shortcutPath)
-        $shortcut.TargetPath = $targetPath
-        $shortcut.Arguments = $arguments
-        $shortcut.WorkingDirectory = $startInPath
-        $shortcut.WindowStyle = 1
-        $shortcut.IconLocation = $iconPath
-        $shortcut.Description = "Discord Canary"
-        $shortcut.Save()
-        Write-Output "Created Discord shortcut."
-    } else {
-        Write-Output "No 'app-x.x.xxx' folder found in '$discordCanaryLocal'."
-    }
-} else {
-    Write-Output "Did not create a Discord shortcut."
 }
 
 Write-Output "Script Process Complete."
