@@ -1,7 +1,5 @@
-<div align="left">
-
-##### Page written by ELECTRO
-
+<div align="center">
+ <h6>Intended for Dark Mode &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Page written by ELECTRO</h6>
 </div>
 
 <div align="center">
@@ -42,7 +40,7 @@ A Digital Creator
 ###### Help me!
 ###### Shut the fuck up.
 
-## "Literally Me" characters
+## "Literally Me" characters ❤️‍🔥
 
 <img align="right" src="assets/Characters.svg" width=550 title="A world built on Fantasy." alt="Characters">
 
@@ -78,13 +76,13 @@ Doesn't use many social medias
 
 <div align="center">
 
-### OS (Primary)
+### OS (Primary) 🐐
 
 | Microsoft | Windows 11 | Canary |
 |----------|----------|----------|
 | <img src="assets/microsoft.svg" title="Microsoft" alt="Microsoft" width="55" height="55"/> | <img src="assets/Windows11.svg" title="Windows 11" alt="Win11" width="55" height="55"/> | <img src="assets/dna.svg" title="Insider Canary" alt="Canary" width="55" height="55" style="padding-left: 20px;"/> |
 
-### OS (Secondary)
+### OS (Secondary) 🌐
 
 | Linux | Arch | BlackArch |
 |----------|----------|----------|
@@ -102,6 +100,6 @@ Doesn't use many social medias
 
 <div align="right">
 
-###### Maybe I'll feel real some day
+###### Maybe I'll feel real some day ♟️
 
 </div>
