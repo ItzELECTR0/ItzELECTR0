@@ -13,11 +13,16 @@
 # ---------------------------------------------------ELECTRO----------------------------------------------------------
 
 # -------------------------------------------
-# POWERTOYS CommandNotFound MODULE
+# CLEAR EVERYTHING BEFORE TAKING ACTION
 # -------------------------------------------
 
-Import-Module -Name Microsoft.WinGet.CommandNotFound
-#f45873b3-b655-43a6-b217-97c00aa0db58
+Clear-Host
+
+# -------------------------------------------
+# LIST POWERSHELL VERSION
+# -------------------------------------------
+
+Write-Output "PowerShell $($PSVersionTable.PSVersion)"
 
 # -------------------------------------------
 # DEFINE VARIABLES
@@ -28,6 +33,19 @@ if ($Host.Name -ne "ConsoleHost") { return }
 
 # Define Editor
 $env:EDITOR = "code-insiders"
+
+# Define Module Directory
+$env:PSModulePath = "V:\Library\Documents\PowerShell\Modules;C:\Program Files\PowerShell\Modules;c:\program files\windowsapps\microsoft.powershellpreview_7.5.3.0_x64__8wekyb3d8bbwe\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;V:\WindowsThings\Powershell\PSModules"
+
+# -------------------------------------------
+# MODULES
+# -------------------------------------------
+
+# PowerToys CommandNotFounds
+Import-Module -Name Microsoft.WinGet.CommandNotFound
+
+# Cmatrix
+Import-Module TheTempest.Elect.Cmatrix
 
 # -------------------------------------------
 # DEFINE PROMPT
@@ -50,17 +68,19 @@ Set-Alias shutdown Stop-Computer
 Set-Alias flatline Stop-Computer -Force
 Set-Alias freboot Restart-Computer -Force
 Set-Alias code $env:EDITOR
-Set-Alias matrix cmatrix
 Set-Alias wifi ipconfig
-Set-Alias vencord 'V:\Windows Things\Installers\VencordInstallerCli.exe'
+Set-Alias vencord 'V:\WindowsThings\Installers\VencordInstallerCli.exe'
 Set-Alias open explorer
-Set-Alias symlinks 'V:\Windows Things\QuickHacks\Symlinks.ps1'
-Set-Alias activate "V:\Windows Things\QuickHacks\MAS\All-In-One-Version\MAS_AIO.cmd"
-Set-Alias takeown 'V:\Windows Things\QuickHacks\Add Take Ownership to Context menu.reg'
-Set-Alias tweakreg "V:\Windows Things\QuickHacks\ELECTRO's Reg Tweaks.reg"
-Set-Alias rmarrow 'V:\Windows Things\QuickHacks\RemoveShortcutArrow.reg'
-Set-Alias watermark 'V:\Windows Things\QuickHacks\uwd.exe'
-Set-Alias switchtoarch 'V:\Windows Things\QuickHacks\SwitchToArch.ps1'
+Set-Alias symlinks 'V:\WindowsThings\QuickHacks\Symlinks.ps1'
+Set-Alias activate "V:\WindowsThings\QuickHacks\MAS\All-In-One-Version\MAS_AIO.cmd"
+Set-Alias takeown 'V:\WindowsThings\QuickHacks\Add Take Ownership to Context menu.reg'
+Set-Alias tweakreg "V:\WindowsThings\QuickHacks\ELECTRO's Reg Tweaks.reg"
+Set-Alias rmarrow 'V:\WindowsThings\QuickHacks\RemoveShortcutArrow.reg'
+Set-Alias rmwatermark 'V:\WindowsThings\QuickHacks\uwd.exe'
+Set-Alias switchtoarch 'V:\WindowsThings\QuickHacks\SwitchToArch.ps1'
+Set-Alias badapple 'V:\WindowsThings\QuickHacks\BadApple.ps1'
+Set-Alias upsc "V:\WindowsThings\QuickHacks\UnityProjectShortcutCreatorV1.ps1"
+Set-Alias clear "V:\WindowsThings\QuickHacks\PWRShellProfile.ps1"
 
 # -------------------------------------------
 # EDIT NOTES
