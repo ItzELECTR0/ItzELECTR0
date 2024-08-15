@@ -65,9 +65,9 @@ Doesn't use many social medias
 #### - Video Editing
   - Some of his work: [Ayanokoji Edit - Rhinestone Eyes](https://youtu.be/tW2iEd6PKqk) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
   - Currently working on: Ayanokoji Edit - Slave | Edgerunners Edit - Red Sex | Descent.
-#### - Programmer
+#### - Programming
   - Currently working on: A Private Project
-#### - Story Writer
+#### - Story Writing
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
 #### - Music Artist
   - Some of his work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
