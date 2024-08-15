@@ -35,7 +35,7 @@ A Digital Creator
 <br>
 <br> Can't take constructive criticism for the life of him
 <br> Enjoys being online even though it's destroyng his life
-<br> What do normal people do when they get this sad?
+<br> What's the feeling when you don't feel anything?
 
 ###### Help me!
 ###### Shut the fuck up.
