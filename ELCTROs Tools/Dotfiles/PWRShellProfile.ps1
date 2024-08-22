@@ -30,11 +30,12 @@ function Show-Menu {
     $key = $null
     do {
         Clear-Host
-        Write-Output "PowerShell $($PSVersionTable.PSVersion)"
+        Write-Host "PowerShell $($PSVersionTable.PSVersion)"
+        Write-Host ""
         neofetch
-        Write-Output ""
-        Write-Output "This is an experimental feature. It might not work properly."
-        Write-Output ""
+        Write-Host ""
+        Write-LogOutput "This is an experimental feature. It might not work properly."
+        Write-Host ""
         for ($i = 0; $i -lt $menuOptions.Count; $i++) {
             if ($i -eq $currentSelection) {
                 Write-Host " > $($menuOptions[$i].Label)" -ForegroundColor Cyan
@@ -75,7 +76,7 @@ function Get-UserConfirmation {
         } elseif ($confirmation -eq 'N' -or $confirmation -eq 'n') {
             return $false
         } else {
-            Write-Output "Invalid input. Please enter 'Y' or 'N'"
+            Write-LogOutput "Invalid input. Please enter 'Y' or 'N'"
         }
     }
 }
@@ -93,24 +94,89 @@ function Get-UserInput {
     return $userInput
 }
 
-# Checks if a symlink already exists and creates on if it doesn't
+# Advanced function for creating symlinks
 function Ensure-Symlink {
     param (
         [string]$Source,
         [string]$Target
     )
+
+    if (-not (Test-Path $Target)) {
+        try {
+            New-Item -ItemType Directory -Path $Target
+            Write-LogOutput "Target path did not exist. Created it automatically."
+        } catch {
+            Write-LogError "Target path does not exist and it couldn't be created automatically: $_"
+            return
+        }
+    }
+    
     if (Test-Path $Source) {
         if ((Get-Item $Source).LinkType -eq "SymbolicLink") {
             Write-Output "Symlink already exists: $Source"
         } else {
-            Remove-Item -Path $Source -Recurse -Force
-            New-Item -ItemType SymbolicLink -Path $Source -Target $Target
-            Write-Output "Replaced directory with symlink: $Source -> $Target"
+            if (Get-UserConfirmation "Move files from source to target? Y to move, N to delete and replace (Y/N)") {
+                try {
+                    Move-Item -Path $Source -Destination $Target -Recurse -Force
+                } catch {
+                    Write-LogError "Error moving '$Source' to '$Target': $_"
+                    return
+                }
+
+                try {
+                    New-Item -ItemType SymbolicLink -Path $Source -Target $Target
+                    Write-LogOutput "Moved directory with a symlink: '$Source' -> '$Target'"
+                } catch {
+                    Write-LogError "Error creating symlink '$Source' -> '$Target': $_"
+                    return
+                }
+            } else {
+                try {
+                    Remove-Item -Path $Source -Recurse -Force
+                } catch {
+                    Write-LogError "Error removing '$Source': $_"
+                    return
+                }
+
+                try {
+                    New-Item -ItemType SymbolicLink -Path $Source -Target $Target
+                    Write-LogOutput "Replaced directory with symlink: '$Source' -> '$Target'"
+                } catch {
+                    Write-LogError "Error creating symlink '$Source' -> '$Target': $_"
+                    return
+                }
+            }
         }
     } else {
-        New-Item -ItemType SymbolicLink -Path $Source -Target $Target
-        Write-Output "Created symlink: $Source -> $Target"
+        try {
+            New-Item -ItemType SymbolicLink -Path $Source -Target $Target
+            Write-LogOutput "Created symlink: $Source -> $Target"
+        } catch {
+            Write-LogError "Error creating symlink '$Source' -> '$Target': $_"
+        }
     }
+}
+
+# Function to log messages
+function Write-LogOutput {
+    param (
+        [string]$message,
+        [string]$level = "INFO"
+    )
+    $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+    "$timestamp [$level] - $message" | Out-File -Append -FilePath "V:\WindowsThings\PowerShell\profile.log"
+    Write-Host $message
+}
+
+# Function to log errors
+function Write-LogError {
+    param (
+        [string]$message,
+        [string]$level = "ERROR"
+    )
+    $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+    "$timestamp [$level] - $message" | Out-File -Append -FilePath "V:\WindowsThings\PowerShell\profile.log"
+    Write-Error $message
 }
 
 # -------------------------------------------
@@ -123,7 +189,7 @@ Clear-Host
 # LIST POWERSHELL VERSION
 # -------------------------------------------
 
-Write-Output "PowerShell $($PSVersionTable.PSVersion)"
+Write-Host "PowerShell $($PSVersionTable.PSVersion)"
 
 # -------------------------------------------
 # DEFINE VARIABLES
@@ -227,7 +293,21 @@ function Start-CustomClear {
 }
 
 function Open-Directory {
-    explorer .
+    param (
+        [string]$Path = "."
+    )
+
+    # Check if the path contains only dots
+    if ($Path -match '^\.+$') {
+        explorer $Path
+    }
+    # Check if the path is a valid directory
+    elseif (Test-Path $Path -PathType Container) {
+        explorer $Path
+    }
+    else {
+        Write-LogOutput "Invalid path. Please provide a valid directory path or relative path with dots."
+    }
 }
 
 function Get-BuildTools22 {
@@ -293,7 +373,7 @@ function Start-Symlinks {
                         Ensure-Symlink $link.Source $link.Target
                     }
                 } else {
-                    Write-Output "Not relinking Spicetify. Continuing."
+                    Write-LogOutput "Not relinking Spicetify. Continuing."
                 }
             }
     
@@ -314,15 +394,15 @@ function Start-Symlinks {
                 $shortcut.IconLocation = $iconPath
                 $shortcut.Description = "Spotify"
                 $shortcut.Save()
-                Write-Output "Created Spotify shortcut."
+                Write-LogOutput "Created Spotify shortcut."
             }else {
-                Write-Output "Did not create a Sptofy shortcut."
+                Write-LogOutput "Did not create a Sptofy shortcut."
             }
         } else {
-        Write-Output "Cancelled Spotify relink. Continuing."
+        Write-LogOutput "Cancelled Spotify relink. Continuing."
         }
     } else {
-        Write-Output "Not relinking Spotify. Continuing."
+        Write-LogOutput "Not relinking Spotify. Continuing."
     }
     
     # Discord Canary
@@ -350,7 +430,7 @@ function Start-Symlinks {
                     $vencordSymlink = @{Source="C:\Users\$username\AppData\Roaming\Vencord"; Target=$vencordPath}
                     Ensure-Symlink $vencordSymlink.Source $vencordSymlink.Target
                 } else {
-                    Write-Output "Not relinking Vencord. Continuing."
+                    Write-LogOutput "Not relinking Vencord. Continuing."
                 }
             }
     
@@ -374,19 +454,19 @@ function Start-Symlinks {
                     $shortcut.IconLocation = $iconPath
                     $shortcut.Description = "Discord Canary"
                     $shortcut.Save()
-                    Write-Output "Created Discord shortcut."
+                    Write-LogOutput "Created Discord shortcut."
                 } else {
-                    Write-Output "No 'app-x.x.xxx' folder found in '$discordCanaryLocal'."
+                    Write-LogError "No 'app-x.x.xxx' folder found in '$discordCanaryLocal'."
                 }
             } else {
-                Write-Output "Did not create a Discord shortcut."
+                Write-LogOutput "Did not create a Discord shortcut."
             }
     
         } else {
-            Write-Output "Cancelled Discord relink. Continuing."
+            Write-LogError "Cancelled Discord relink. Continuing."
         }
     } else {
-        Write-Output "Not relinking Discord. Continuing."
+        Write-LogOutput "Not relinking Discord. Continuing."
     }
     
     # Firefox
@@ -398,10 +478,10 @@ function Start-Symlinks {
             $firefoxSymlink = @{Source="C:\Users\$username\AppData\Roaming\Mozilla\Firefox\Profiles\$firefoxProfile"; Target=$firefoxTarget}
             Ensure-Symlink $firefoxSymlink.Source $firefoxSymlink.Target
         } else {
-            Write-Output "Not relinking Firefox. Continuing"
+            Write-LogOutput "Not relinking Firefox. Continuing"
         }
     } else {
-        Write-Output "Firefox Not Installed. Skipping."
+        Write-LogOutput "Firefox Not Installed. Skipping."
     }
 
     # Game Shortcuts Folder
@@ -412,9 +492,9 @@ function Start-Symlinks {
         $gameSymlink = @{Source="C:\Users\$userName\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\$startMenuGamesLocation"; Target=$gamesFolderLocation}
         Ensure-Symlink $gameSymlink.Source $gameSymlink.Target
 
-        Write-Output "Folders are linked. Add shortcuts to your folder and pin them to your start menu!"
+        Write-LogOutput "Folders are linked. Add shortcuts to your folder and pin them to your start menu!"
     }else {
-        Write-Output "Not linking a Games folder. Continuing."
+        Write-LogOutput "Not linking a Games folder. Continuing."
     }
     
     # Powershell Profile Relinking
@@ -423,29 +503,18 @@ function Start-Symlinks {
             $profileLocation = Get-UserInput "Where is your current PowerShell profile?" "V:\Library\Documents\PowerShell\Microsoft.PowerShell_profile.ps1"
             $profileDestination = Get-UserInput "Where would you like to relocate your PowerShell profile?" "V:\WindowsThings\Powershell\PWRShellProfile.ps1"
             
-            if (Test-Path $profileLocation) {
-                if ((Get-Item $profileLocation).LinkType -eq "SymbolicLink") {
-                    Write-Output "Symlink already exists: $($profileLocation)"
-                } else {
-                    Remove-Item -Path $profileLocation -Force
-                    New-Item -ItemType SymbolicLink -Path $profileLocation -Target $profileDestination
-                    Write-Output "Created symlink: $($profileLocation) -> $($profileDestination)"
-                }
-            } else {
-                New-Item -ItemType SymbolicLink -Path $profileLocation -Target $profileDestination
-                Write-Output "Created symlink: $($profileLocation) -> $($profileDestination)"
-            }
+            Ensure-Symlink $profileLocation $profileDestination
         }
     }
     
-    Write-Output "Script Process Complete. Have a nice day."
+    Write-LogOutput "Script Process Complete. Have a nice day."
 }
 
 function Switch-ArchLinux {
     # Check if running as Administrator
     if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
     {
-        Write-Error "You need to run this script as an Administrator!"
+        Write-LogError "You need to run this script as an Administrator!"
         exit
     }
 
@@ -455,13 +524,13 @@ function Switch-ArchLinux {
     # Check if Secure Boot is enabled
     if (Get-SecureBootPolicy | Select-Object -ExpandProperty SecureBootEnabled)
     {
-        Write-Output "Secure Boot is enabled. Disabling Secure Boot..."
+        Write-LogOutput "Secure Boot is enabled. Disabling Secure Boot..."
         Disable-SecureBoot
-        Write-Output "Secure Boot has been disabled."
+        Write-LogOutput "Secure Boot has been disabled."
     }
     else
     {
-        Write-Output "Secure Boot is already disabled."
+        Write-LogOutput "Secure Boot is already disabled."
     }
 
     # Get current boot order
@@ -475,21 +544,21 @@ function Switch-ArchLinux {
 
     if ($uefiOS)
     {
-        Write-Output "Found UEFI OS. Updating boot order to prioritize UEFI OS over Windows Boot Manager..."
+        Write-LogOutput "Found UEFI OS. Updating boot order to prioritize UEFI OS over Windows Boot Manager..."
         bcdedit /set {fwbootmgr} bootsequence $uefiOS,$windowsBootManager
-        Write-Output "Boot order updated."
+        Write-LogOutput "Boot order updated."
     }
     else
     {
-        Write-Error "UEFI OS not found. Please ensure BlackArch Linux is installed and properly recognized by the UEFI firmware."
+        Write-LogError "UEFI OS not found. Please ensure BlackArch Linux is installed and properly recognized by the UEFI firmware."
     }
 
-    Write-Output "Execution completed."
+    Write-LogOutput "Execution completed."
 }
 
 function Start-BadApple {
     Set-Location "V:\Windows Things\QuickHacks\BadApple"
-    npm start   
+    npm start
 }
 
 function Start-CTT {
@@ -500,7 +569,7 @@ function Start-FreshConfig {
     if (Get-UserConfirmation "Would you like to install this script's packages? (Y/N)") {
         if (Get-UserConfirmation "There are five 5 to install. Continue? (Y/N)") {
             winget install nepnep.neofetch-win
-            winget install Microsoft.DotNet.SDK.9
+            winget install Microsoft.DotNet.SDK.Preview
             winget install Microsoft.DotNet.SDK.8
             winget install Microsoft.DotNet.SDK.6
             winget install CharlesMilette.TranslucentTB
