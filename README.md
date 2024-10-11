@@ -25,7 +25,7 @@ A Digital Creator
  - Apathetic
  - Self Fulfilling
 
-<br> 99% of the time can be found indoors, the other 1% in highschool
+<br> 99% of the time can be found indoors
 <br> 80% of indoor time is in his room using a computer
 <br> 20% of indoor time is using an Xbox on a samsung TV
 <br>
