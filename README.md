@@ -68,7 +68,7 @@ Doesn't use many social medias
 #### - Programming
   - Currently working on: A Private Project
 #### - Story Writing
-  - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
+  - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS) | [TTMS](https://github.com/ItzELECTR0/TTMS)
 #### - Music Artist
   - Some of his work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - Currently working on: Heart of Nothing (Album) | Little World, Big Rain (Single)
