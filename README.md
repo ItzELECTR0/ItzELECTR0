@@ -64,7 +64,7 @@ Doesn't use many social medias
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS) | [TTMS](https://github.com/ItzELECTR0/TTMS)
 #### - Video Editing
   - Some of his work: [TWAOS: Chapter One Teaser](https://www.youtube.com/watch?v=UctX2k-wf8U) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
-  - Currently working on: Eighty-Six Edit - Alien Blues | Edgerunners Edit - Red Sex
+  - Currently working on: Ayanokoji Edit - Digital Silence | Eighty-Six Edit - Alien Blues
 #### - Programming
   - Currently working on: A Private Project
 #### - Story Writing
