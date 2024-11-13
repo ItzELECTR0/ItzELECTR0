@@ -20,7 +20,7 @@ A Digital Creator
 <img align="right" src="assets/Characteristics.svg" width=450 title="Nothig is real." alt="Characteristics">
 
  - Pessimistic
- - Semi Nihilistic
+ - Nihilistic
  - Self Destructive
  - Apathetic
  - Self Fulfilling
