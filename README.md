@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/ELECTRIS-Transparent.svg" width=250 title="The Electrinity." alt="ELECTRIS"> <img src="assets/PFP-V9-nobg.svg" width=250 title="The Creator." alt="ELECTRO"> <img src="assets/TWAOS.svg" width=250 title="One and the Same." alt="TWAOS">
+<img src="assets/ELECTRIS-Transparent.svg" width=250 title="The Electrinity." alt="ELECTRIS"> <img src="assets/PFP.svg" width=250 title="The Creator." alt="ELECTRO"> <img src="assets/TWAOS.svg" width=250 title="One and the Same." alt="TWAOS">
 
 # ɆⱠɆ₵₮ⱤØ
 
@@ -26,8 +26,8 @@ A Digital Creator
  - Self Fulfilling
 
 <br> 99% of the time can be found indoors
-<br> 80% of indoor time is in his room using a computer
-<br> 20% of indoor time is using an Xbox on a samsung TV
+<br> 90% of the time is in his room using a computer
+<br> 20% of the time God knows what he's doing
 <br>
 <br> Favorite game #1: Cyberpunk 2077
 <br> Favorite game #2: Hollow Knight
@@ -51,14 +51,16 @@ A Digital Creator
 
 ### Social media 📡
 Doesn't use many social medias
-<br>But has a discord server and a YouTube Channel
+<br>But has a select few
 
  - [Discord](https://discord.gg/TgtCGKxbZr)
  - [Youtube](https://www.youtube.com/@ELEC7RO)
+ - [Twitch](https://twitch.tv/electro_dev)
+ - [Twitter](https://twitter.com/0xELTR)
 
 ### Skills 🥇
 
-<img align="right" src="assets/Skills.svg" height=400 title="Distractions from Reality." alt="Skills">
+<img align="right" src="assets/Skills.png" height=400 title="Distractions from Reality." alt="Skills">
 
 #### - Game Development (In Unity)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS) | [TTMS](https://github.com/ItzELECTR0/TTMS)
