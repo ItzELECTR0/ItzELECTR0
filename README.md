@@ -64,6 +64,8 @@ Doesn't use many social medias
 
 #### - Game Development (In Unity)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS) | [TTMS](https://github.com/ItzELECTR0/TTMS)
+#### - Web Development (In ChatGPT)
+  - Currently working on: [electris.net](https://github.com/ItzELECTR0/electris.net)
 #### - Video Editing
   - Some of his work: [TWAOS: Chapter One Teaser](https://www.youtube.com/watch?v=UctX2k-wf8U) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
   - Currently working on: Ayanokoji Edit - Digital Silence | Eighty-Six Edit - Alien Blues
