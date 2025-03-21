@@ -56,7 +56,6 @@ Doesn't use many social medias
  - [Discord](https://discord.gg/TgtCGKxbZr)
  - [Youtube](https://www.youtube.com/@ELEC7RO)
  - [Twitch](https://twitch.tv/electro_dev)
- - [Twitter](https://twitter.com/0xELTR)
 
 ### Skills 🥇
 
