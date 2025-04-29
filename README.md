@@ -67,7 +67,7 @@ Doesn't use many social medias
   - Currently working on: [electris.net](https://github.com/ItzELECTR0/electris.net)
 #### - Video Editing
   - Some of his work: [TWAOS: Chapter One Teaser](https://www.youtube.com/watch?v=UctX2k-wf8U) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
-  - Currently working on: Ayanokoji Edit - Digital Silence | Eighty-Six Edit - Alien Blues
+  - Currently working on: DUCKWORTH. | Eighty-Six Edit - Alien Blues
 #### - Programming
   - Currently working on: A Private Project
 #### - Story Writing
