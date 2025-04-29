@@ -29,9 +29,9 @@ A Digital Creator
 <br> 90% of the time is in his room using a computer
 <br> 20% of the time God knows what he's doing
 <br>
-<br> Favorite game #1: Cyberpunk 2077
+<br> Favorite game #1: Steins;Gate
 <br> Favorite game #2: Hollow Knight
-<br> Favorite game #3: Life is Strange 2
+<br> Favorite game #3: Cyberpunk 2077
 <br>
 <br> Can't take constructive criticism for the life of him
 <br> Enjoys being online even though it's destroyng his life
