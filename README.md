@@ -65,14 +65,14 @@ Doesn't use many social medias
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS) | [TTMS](https://github.com/ItzELECTR0/TTMS)
 #### - Web Development (In ChatGPT)
   - Currently working on: [electris.net](https://github.com/ItzELECTR0/electris.net)
-#### - Video Editing
+#### - Video Editing (In Wondershare Filmora)
   - Some of his work: [TWAOS: Chapter One Teaser](https://www.youtube.com/watch?v=UctX2k-wf8U) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
   - Currently working on: DUCKWORTH. | Eighty-Six Edit - Alien Blues
 #### - Programming
   - Currently working on: A Private Project
-#### - Story Writing
+#### - Story Writing (In Obsidian.md)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS) | [TTMS](https://github.com/ItzELECTR0/TTMS)
-#### - Music Artist
+#### - Music Artist (In Adobe Audition)
   - Some of his work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - Currently working on: Gratitude & Electric Ego | Heart of Nothing
 </div>
