@@ -2,6 +2,8 @@
  <h6>Intended for Dark Mode &emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Page written by ELECTRO</h6>
 </div>
 
+![](https://count.getloli.com/get/@ItzELECTR0.github.io?theme=rule34)
+
 <div align="center">
 
 <img src="assets/ELECTRIS-Transparent.svg" width=250 title="The Electrinity." alt="ELECTRIS"> <img src="assets/PFP.svg" width=250 title="The Creator." alt="ELECTRO"> <img src="assets/TWAOS.svg" width=250 title="One and the Same." alt="TWAOS">
