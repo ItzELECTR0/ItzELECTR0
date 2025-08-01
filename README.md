@@ -92,8 +92,6 @@ Or my Discord
 
 <div align="center">
  <img width="1000" src="assets/github-snake.svg" title="Commits: Wait, is that a snake?" alt="snake"/>
- 
- ![](https://count.getloli.com/get/@ItzELECTR0.github.io?theme=rule34)
 </div>
 
 <div align="right">
