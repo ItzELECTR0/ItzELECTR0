@@ -1,8 +1,9 @@
 <div align="center">
+ 
+ ![](https://count.getloli.com/get/@ItzELECTR0.github.io?theme=rule34)
+ 
  <h6>Intended for Dark Mode &emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Page written by ELECTRO</h6>
 </div>
-
-![](https://count.getloli.com/get/@ItzELECTR0.github.io?theme=rule34)
 
 <div align="center">
 
