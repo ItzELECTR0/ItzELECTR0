@@ -54,7 +54,7 @@ Or my Discord
 
  - [discord.ELECTRIS.net](https://discord.electris.net)
 
-### Skills 🥇
+### Skills & Works 🥇
 
 <img align="right" src="assets/Skills.png" height=400 title="Distractions from Reality." alt="Skills">
 
