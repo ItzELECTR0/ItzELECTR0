@@ -63,14 +63,14 @@ Or my Discord
 #### - Web Development (In Claude)
   - Currently working on: [electris.net](https://github.com/ItzELECTR0/electris.net)
 #### - Video Editing (In Wondershare Filmora)
-  - Some of his work: [DUCKW/LAZĂR](https://youtu.be/2FNziah2QtA) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
+  - Some of my work: [DUCKW/LAZĂR](https://youtu.be/2FNziah2QtA) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
   - Currently working on: Eighty-Six Edit - Alien Blues
 #### - Programming
   - Currently working on: Nothing really, just learning.
 #### - Story Writing (In Obsidian.md)
   - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
 #### - Music Artist (In Adobe Audition)
-  - Some of his work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+  - Some of my work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - Currently working on: Gratitude & Electric Ego | Heart of Nothing
 </div>
 
