@@ -78,7 +78,7 @@ Or my Discord
 
 ### OS (Primary) 🐐
 
-| Linux | Arch | BlackArch |
+| Linux | Arch (btw) | BlackArch |
 |----------|----------|----------|
 | <img src="assets/linux.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="assets/archlinux.svg" title="Arch Linux" alt="Arch" width="55" height="55"/> | <img src="assets/blackarch.svg" title="BlackArch Linux" alt="BlackArch" width="55" height="55" style="padding-left: 20px;"/> |
 
