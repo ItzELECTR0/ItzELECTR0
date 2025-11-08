@@ -63,8 +63,8 @@ Or my Discord
 #### - Web Development (In Claude)
   - Currently working on: [electris.net](https://github.com/ItzELECTR0/electris.net)
 #### - Video Editing (In Wondershare Filmora)
-  - Some of his work: [TWAOS: Chapter One Teaser](https://www.youtube.com/watch?v=UctX2k-wf8U) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
-  - Currently working on: DUCKWORTH. | Eighty-Six Edit - Alien Blues
+  - Some of his work: [DUCKW/LAZĂR](https://youtu.be/2FNziah2QtA) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
+  - Currently working on: Eighty-Six Edit - Alien Blues
 #### - Programming
   - Currently working on: Nothing really, just learning.
 #### - Story Writing (In Obsidian.md)
