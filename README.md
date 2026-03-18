@@ -68,7 +68,7 @@ Or my Discord
 #### - Programming
   - Currently working on: Nothing really, just learning.
 #### - Story Writing (In Obsidian.md)
-  - Currently working on: [TWAOS](https://github.com/ItzELECTR0/TWAOS)
+  - Currently working on: [TWAOS](https://canary.electris.net/twaos)
 #### - Music Artist (In Adobe Audition)
   - Some of my work: [Whispers of The Storm](https://open.spotify.com/album/1ba9Z9T2VU10BerkOarGQc?si=BiwYnbK9S6q6rSoPxXm_3w) | [That Guy](https://soundcloud.com/electro_dev/thatguy?si=abcdc2f892fd4287bd5099a22382e3d9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - Currently working on: Gratitude & Electric Ego | Heart of Nothing
