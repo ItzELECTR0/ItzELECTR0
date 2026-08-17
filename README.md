@@ -18,7 +18,7 @@ A Digital Creator
 ## A bit about ELECTRO ⚡
 
  - Creative
- - Pessimistic
+ - Optimistic
  - Nihilistic
  - Self-Destructive
  - Em|pathetic
