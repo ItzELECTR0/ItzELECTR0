@@ -82,7 +82,7 @@ Or my Discord
 |----------|----------|----------|
 | <img src="assets/linux.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="assets/archlinux.svg" title="Arch Linux" alt="Arch" width="55" height="55"/> | <img src="assets/blackarch.svg" title="BlackArch Linux" alt="BlackArch" width="55" height="55" style="padding-left: 20px;"/> |
 
-### OS (Secondary) 🌐
+### OS (Virtual Machine) 🌐
 
 | Microsoft | Windows 11 | Canary |
 |----------|----------|----------|
