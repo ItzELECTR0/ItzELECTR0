@@ -66,7 +66,7 @@ Or my Discord
   - Some of my work: [DUCKW/LAZĂR](https://youtu.be/2FNziah2QtA) | [Ayanokoji Edit - Comics](https://youtu.be/BXctIjffg9g)
   - Currently working on: Eighty-Six Edit - Alien Blues
 #### - Programming
-  - Currently working on: Nothing really, just learning.
+  - Currently working on: [RustyPaint](https://github.com/ItzELECTR0/RustyPaint) | Staged
 #### - Story Writing (In Obsidian.md)
   - Currently working on: [TWAOS](https://canary.electris.net/twaos)
 #### - Music Artist (In Adobe Audition)
