@@ -18,10 +18,9 @@ A Digital Creator
 ## A bit about ELECTRO ⚡
 
  - Creative
- - Optimistic
- - Nihilistic
- - Self-Destructive
- - Em|pathetic
+ - Tinkering
+ - Techy
+ - Experimental
 
 <br> Favorite game #1: [Steins;Gate](https://store.steampowered.com/app/412830/STEINSGATE/)
 <br> Favorite game #2: [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)
@@ -34,8 +33,6 @@ A Digital Creator
 <br> Favourite light novel #1: [Classroom of The Elite](https://www.amazon.com/dp/B0B5S63MC4?binding=paperback)
 <br> Favourite light novel #2: [86 EIGHTY-SIX](https://www.amazon.com/dp/B081QB9H2V?binding=paperback&searchxofy=true)
 <br> Favourite light novel #3: [Re:ZERO](https://www.amazon.com/dp/B084YX78DJ?binding=paperback)
-
-###### When you deserve it All <br> It All just always seems to Linger
 
 ## "Literally Me" characters ❤️‍🔥
 
